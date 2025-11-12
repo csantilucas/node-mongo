@@ -19,6 +19,7 @@
   "homepage": "https://github.com/csantilucas/node-mongo#readme",
   "dependencies": {
     "express": "^5.1.0",
+    "mongoose": "^8.19.3",
     "mongosh": "^2.5.9"
   }
 }
