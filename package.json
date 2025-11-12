@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "testando e conectando o MongoDB com node.js, criando uma aplicacao teste para aprender a usar em cojunto essas duas ferramentas",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
